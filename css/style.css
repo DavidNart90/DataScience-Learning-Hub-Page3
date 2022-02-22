@@ -8531,6 +8531,10 @@ margin-bottom: 20px;
     visibility: hidden;
     display: none;
   }
+  .course-box .activ{
+    visibility: hidden;
+    display: none;
+  }
   }
 
 
@@ -8551,6 +8555,10 @@ margin-bottom: 20px;
       visibility: hidden;
       display: none;
     }
+    .course-box .activ{
+    visibility: hidden;
+    display: none;
+  }
   }
 
   @media(max-width:440px){
@@ -8569,6 +8577,10 @@ margin-bottom: 20px;
       visibility: hidden;
       display: none;
     }
+    .course-box .activ{
+    visibility: hidden;
+    display: none;
+  }
   }
   
   @media screen and (max-width: 960px){
@@ -8587,6 +8599,10 @@ margin-bottom: 20px;
       visibility: hidden;
       display: none;
     }
+    .course-box .activ{
+    visibility: hidden;
+    display: none;
+  }
   }
     
 
