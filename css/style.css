@@ -576,6 +576,7 @@ pre {
         z-index: 99;
         height: 60vh;
         font-size: 1.6rem;
+        overflow-y:scroll;
     }
     #nav_logo{
         padding-left: 25px;
